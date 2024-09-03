@@ -1,6 +1,6 @@
 # Frontend Practice
 
-These pages are the results of practicing my HTML, CSS, and JavaScript, based on exercises included on the website [Frontend Practice](https://www.frontendpractice.com/).
+These pages are the results of practicing my skills in HTML, CSS, and JavaScript, based on exercises included on the website [Frontend Practice](https://www.frontendpractice.com/).
 
 ## Getting Started
 
